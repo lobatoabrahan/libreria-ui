@@ -4,6 +4,7 @@ import Button from './Button';
 export default {
     title: 'Example/Button',
     component: Button,
+    tags:['autodocs']
 };
 
 const Template = (args) => <Button {...args} />;
