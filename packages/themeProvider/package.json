@@ -1,8 +1,8 @@
 {
-  "name": "button",
+  "name": "theme-provider",
   "version": "0.0.2",
   "description": "",
-  "main": "index.js",
+  "main": "ThemeProvider.jsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

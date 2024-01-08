@@ -1,13 +1,12 @@
 {
-  "name": "button",
-  "version": "0.0.2",
+  "name": "theme",
+  "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "Theme.jsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "Abrahan Lobato",
-  "license": "ISC",
-  "gitHead": "62e27d59a56d44fa344c08c7854e662bc8a6aeb1"
+  "license": "ISC"
 }
